@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning MERN stack.
-👯 I’m looking to collaborate.
+-🌱 I’m currently learning MERN stack.
+
+-👯 I’m looking to collaborate.
