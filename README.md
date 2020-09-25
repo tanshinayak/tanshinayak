@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 👯 I’m open for collaborations 
 
 ## Connect With Me
-<a href="https://www.linkedin.com/in/tanshi-nayak-955508176/"><img src="/images/linkedin.png" alt="alt text" width="30px" height="30px" margin-left="10px"></a>
+<a href="https://www.linkedin.com/in/tanshi-nayak-955508176/"><img src="/images/linkedin.png" alt="alt text" width="30px" height="30px"></a>
 <a href="https://www.instagram.com/tanshi_nayak/"><img src="/images/instagram.png" alt="alt text" width="30px" height="30px"margin-left="10px"></a>
 <a href="mailto:tanshitn@gmail.com"><img src="/images/gmail.png" alt="alt text" width="30px" height="30px"margin-left="10px"></a>
 
