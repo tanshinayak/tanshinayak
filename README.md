@@ -32,5 +32,13 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanshinayak&layout=compact&theme=radical)](https://github.com/tanshinayak/github-readme-stats)
 
 ## ⚙️Languages and Tools
-![js](/images/javascript.png)
+<img src="/images/javascript.png" alt="alt text" width="30px" height="30px">
+<img src="/images/react.png" alt="alt text" width="30px" height="30px">
+<img src="/images/html.png" alt="alt text" width="30px" height="30px">
+<img src="/images/css.png" alt="alt text" width="30px" height="30px">
+<img src="/images/node.png" alt="alt text" width="30px" height="30px">
+<img src="/images/cpp.png" alt="alt text" width="30px" height="30px">
+<img src="/images/bootstrap.png" alt="alt text" width="30px" height="30px">
+<img src="/images/github.png" alt="alt text" width="30px" height="30px">
+<img src="/images/git.png" alt="alt text" width="30px" height="30px">
 
