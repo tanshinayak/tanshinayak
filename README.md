@@ -1,4 +1,4 @@
-👋 Hii, I'm Tanshi 
+# 👋 Hii, I'm [Tanshi](https://tanshinayak.github.io) 
 
 <!--
 **tanshinayak/tanshinayak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-    ⚡Quick Facts About Me
+   **⚡Quick Facts About Me**
 
 •	🔭 I’m working on some personal projects
 
-•	🌱 I’m currently learning Expressjs
+•	🌱 I’m currently learning `Expressjs`
 
 •	👯 I’m open for collaborations 
 
