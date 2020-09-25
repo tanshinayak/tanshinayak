@@ -1,4 +1,5 @@
 # 👋 Hii, I'm [Tanshi](https://tanshinayak.github.io) 
+[<img src="https://komarev.com/ghpvc/?username=tanshinayak&label=Profile+Views&color=2e8b57&style=flat" />](https://github.com/tanshinayak)
 
 <!--
 **tanshinayak/tanshinayak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
