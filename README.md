@@ -14,15 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-   **⚡Quick Facts About Me**
+   ## ⚡Quick Facts About Me
 
-•	🔭 I’m working on some personal projects
+- 🔭 I’m working on some personal projects
 
-•	🌱 I’m currently learning `Expressjs`
+- 🌱 I’m currently learning `Expressjs`
 
-•	👯 I’m open for collaborations 
+- 👯 I’m open for collaborations 
 
-Connect With Me
+## Connect With Me
+[![linkedin Logo](/images/linkedin.ai)](https://www.linkedin.com/in/tanshi-nayak-955508176/)
 
-🚀 Quick Stats
+## 🚀 Quick Stats
 
