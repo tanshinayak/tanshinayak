@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 ## Connect With Me
 [![linkedin Logo](/images/linkedin.ai)](https://www.linkedin.com/in/tanshi-nayak-955508176/)
+[![instagram Logo](/images/instagram.png)](https://www.instagram.com/tanshi_nayak/)
 
 ## 🚀 Quick Stats
 
