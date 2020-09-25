@@ -23,10 +23,9 @@ Here are some ideas to get you started:
 - 👯 I’m open for collaborations 
 
 ## Connect With Me
-[![linkedin Logo](/images/linkedin.png)](https://www.linkedin.com/in/tanshi-nayak-955508176/)
-<img src="/images/linkedin.png" alt="alt text" width="10px" height="10px">
-[![instagram Logo](/images/instagram.png)](https://www.instagram.com/tanshi_nayak/)
-[![gmail Logo](/images/gmail.png)](mailto:tanshitn@gmail.com)
+<a href="https://www.linkedin.com/in/tanshi-nayak-955508176/"><img src="/images/linkedin.png" alt="alt text" width="20px" height="20px"></a>
+<a href="https://www.instagram.com/tanshi_nayak/"><img src="/images/instagram.png" alt="alt text" width="20px" height="20px"></a>
+<a href="mailto:tanshitn@gmail.com"><img src="/images/gmail.png" alt="alt text" width="20px" height="20px"></a>
 
 ## 🚀 Quick Stats
 
