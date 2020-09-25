@@ -31,3 +31,6 @@ Here are some ideas to get you started:
 [![Tanshi's github stats](https://github-readme-stats.vercel.app/api?username=tanshinayak&show_icons=true&theme=radical)](https://github.com/tanshinayak/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanshinayak&layout=compact&theme=radical)](https://github.com/tanshinayak/github-readme-stats)
 
+## ⚙️Languages and Tools
+![js](/images/javascript.png)
+
