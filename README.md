@@ -28,4 +28,5 @@ Here are some ideas to get you started:
 <a href="mailto:tanshitn@gmail.com"><img src="/images/gmail.png" alt="alt text" width="20px" height="20px"></a>
 
 ## 🚀 Quick Stats
+[![Tanshi's github stats](https://github-readme-stats.vercel.app/api?username=tanshinayak)](https://github.com/tanshinayak/github-readme-stats)
 
