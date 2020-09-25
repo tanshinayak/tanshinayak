@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ## Connect With Me
 [![linkedin Logo](/images/linkedin.png =10x10)](https://www.linkedin.com/in/tanshi-nayak-955508176/)
 [![instagram Logo](/images/instagram.png =10x10)](https://www.instagram.com/tanshi_nayak/)
-[![gmail Logo](/images/gmail.png =10x10)](mailto: tanshitn@gmail.com)
+[![gmail Logo](/images/gmail.png =10x10)](mailto:tanshitn@gmail.com)
 
 ## 🚀 Quick Stats
 
