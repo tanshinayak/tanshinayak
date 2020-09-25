@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 ## Connect With Me
 [![linkedin Logo](/images/linkedin.png)](https://www.linkedin.com/in/tanshi-nayak-955508176/)
+<img src="/images/linkedin.png" alt="alt text" width="10px" height="10px">
 [![instagram Logo](/images/instagram.png)](https://www.instagram.com/tanshi_nayak/)
 [![gmail Logo](/images/gmail.png)](mailto:tanshitn@gmail.com)
 
